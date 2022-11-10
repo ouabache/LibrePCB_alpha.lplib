@@ -1,0 +1,28 @@
+cd BGA/
+./script
+cd ../Cap/
+./script
+cd ../Chip/
+./script
+cd ../Dip/
+./script
+cd ../ICs/
+./script
+cd ../IDC/
+./script
+cd ../Lattice/
+./script
+cd ../Logic/
+./script
+cd ../Mosfet/
+./script
+cd ../QFP/
+./script
+cd ../Resistor/
+./script
+cd ../SO/
+./script
+cd ..
+
+
+

@@ -1,0 +1,10 @@
+(librepcb_library ef1b019a-4b4c-4b77-846e-d416fe27893b
+ (name "LibrePCB_alpha")
+ (description "")
+ (keywords "")
+ (author "ouabache")
+ (version "0.1")
+ (created 2022-11-09T17:00:59Z)
+ (deprecated false)
+ (url "")
+)

@@ -1,0 +1,6 @@
+cp -r out/buffer/*  ../..
+cp -r out/flipflop/*  ../..
+cp -r out/gates/*  ../..
+cp -r out/Generic/*  ../..
+cp -r out/Logic/*  ../..
+cp -r out/multiplexor/*  ../..

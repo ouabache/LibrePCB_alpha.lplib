@@ -1,0 +1,1 @@
+cp -r out/Generic/*  ~/LibrePCB_Dewey/v0.1/libraries/local/LibrePCB_ICs.lplib
